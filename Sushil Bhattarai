@@ -1,0 +1,19 @@
+🚀 **Hands-On Networking Lab: Analyzing Network Traffic with Wireshark & Kali Linux!**
+
+Today, I explored network traffic analysis using **Wireshark and Kali Linux**.
+
+🔍 **What I Practiced:**
+- Set up a local Python HTTP server.
+- Used `curl` to send HTTP requests.
+- Captured and analyzed network packets using Wireshark.
+- Observed the TCP three-way handshake (SYN, SYN-ACK, ACK).
+- Identified HTTP GET requests and successful `200 OK` responses.
+- Analyzed TCP connection termination.
+
+💡 **Key Takeaway:**
+
+This hands-on lab helped me understand how TCP connections are established, how HTTP communication works, and how network traffic can be monitored and analyzed using Wireshark.
+
+I'm excited to continue building my practical networking and cybersecurity skills, one lab at a time! 🔐💻
+
+#Cybersecurity #Wireshark #KaliLinux #Networking #EthicalHacking #InfoSec #HandsOnLearning #Python
